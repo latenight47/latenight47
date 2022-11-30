@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @latenight47
-- 👀 I’m interested in solidity 
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on nft
+- 👀 I’m interested in javascript   
+- 🌱 I’m currently learning javascript 
+- 💞️ I’m looking to collaborate on learning in order to make a living
 - 📫 How to reach me bdnut999@gmail.com
 
 <!---
